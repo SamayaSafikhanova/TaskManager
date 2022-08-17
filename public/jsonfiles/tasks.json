@@ -1,0 +1,12 @@
+
+
+    [
+ 
+         { "id": 1, "tagname": "arzubayramova","status": "Yeni" ,"description":"Istifadeciler menyusunda tetbiq et duymesini basdiqdan sonra acilan dialogun mobil versiyaya uygunlasdirilmasi","connections":["orxanhuseynov","arzubayramova"]},
+         { "id": 2, "tagname": "orxanhuseynov","status": "Yeni" ,"description":"Istifadeciler menyusunda tetbiq et duymesini basdiqdan sonra acilan dialogun mobil versiyaya uygunlasdirilmasi","connections":["orxanhuseynov","arzubayramova"]}, 
+         { "id": 3, "tagname": "cavidaliyev","status": "Tamamlanıb" ,"description":"111","connections":["orxanhuseynov","arzubayramova"]},
+         { "id": 4, "tagname": "mehdibagirov","status": "Yeni" ,"description":"222","connections":["orxanhuseynov","arzubayramova"]},
+         { "id": 5, "tagname": "asimnazarov","status": "Yeni" ,"description":"333","connections":["orxanhuseynov","arzubayramova"]} 
+         
+    ]
+
