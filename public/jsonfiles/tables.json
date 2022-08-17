@@ -1,0 +1,6 @@
+[
+  {"id": 1,"name":"Tamamlanıb", "description":"Tapşırıq yerine yetirilib"},
+  {"id": 2,"name":"Yeni", "description":"Tapşırıq yerinə yetirilməyib"},
+  {"id": 3,"name":"İmtina olunub", "description":"İmtina olunub"},
+  {"id": 4,"name":"İcradadır", "description":"Tapşırıq icradadır"} 
+]
